@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+#A{
+    position: relative;
+    width: 100%;
+    z-index: 0;
+    float: left;
+}
+#B{
+    position: absolute;
+    right: 10px;
+    z-index: 3;
+    float: left;
+}
